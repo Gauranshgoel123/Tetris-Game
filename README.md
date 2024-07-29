@@ -13,7 +13,7 @@ This project is a simple implementation of the classic Tetris game using HTML5, 
 
 ## Demo
 
-![Tetris Game Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/c2a6c493-634d-47f0-a1b5-d2d0050ebe9c)
 
 ## How to Play
 
